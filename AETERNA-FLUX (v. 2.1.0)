@@ -1,4 +1,4 @@
-TECHNICAL WHITE PAPER: AETERNA-FLUX (v. 2.1.0)
+TECHNICAL WHITE PAPER: AETERNA-FLUX (v. 1.0.0)
 Universal Quantum-Coherent User-Space Storage and Interconnect Fabric
 
 Author: Juho Artturi Hemminki
@@ -69,11 +69,6 @@ IOPS (4K Random): 450,000 vs. 1,250,000+
 Latency Jitter: 15 to 40 percent vs. less than 0.02 percent
 CPU Overhead: High (Interrupt storms) vs. Minimal (Passive Polling)
 Data Integrity: Reactive (CRC/Retry) vs. Proactive (Ghost-Fold)
-
-VII. FUTURE ROADMAP
-
-    v. 2.2.0: TR-512 Entropy Drift: Monitoring the electrical pulse of NAND cells to predict failure before a bit-flip occurs by measuring the phase-shift in PHX-BusLink signals.
-    v. 2.3.0: UNIT-X ASIC: A dedicated hardware implementation where the UNIT-X equation is baked into silicon, removing the CPU from the orchestration loop entirely.
 
 VIII. CONCLUSION
 AETERNA-FLUX is more than a storage engine; it is a fundamental re-engineering of the relationship between silicon and software. By removing the abstractions of the 1970s (the Kernel) and replacing them with 21st-century mathematical constants (Phi, Gamma), AETERNA-FLUX achieves the final frontier of computing: Absolute Determinism.
