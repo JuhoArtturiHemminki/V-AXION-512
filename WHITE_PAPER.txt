@@ -40,7 +40,7 @@ Recursive SR-GS Verification:
     Within the G-STORM-512 core, dedicated State Recovery (SR) and Ghost-Sync (GS) logic-blocks perform a final deterministic check. This ensures that the processed data stream remains perfectly aligned and bit-accurate even after high-intensity filtering or predictive adjustments.    
 TR-512 (Temporal Resilience):
     Calculates the mathematical pulse of the link using Entropy Drift (E_drift) analysis governed by the Golden Ratio (phi). It detects physical link degradation (e.g., cable wear or environmental stress) before bit errors even occur, allowing for proactive system recalibration and preventative maintenance.
-    HR-512 (Hyper-Resonance Filter):
+HR-512 (Hyper-Resonance Filter):
     An adaptive hardware filter that identifies and neutralizes intentional signal interference or unauthorized data injection. It dynamically shifts the protocol’s mathematical anchor points based on prime-resonant frequencies, making the signal immune to static interference patterns and ensuring stable communication in high-noise industrial or orbital environments.
 
     MATHEMATICAL FOUNDATION
