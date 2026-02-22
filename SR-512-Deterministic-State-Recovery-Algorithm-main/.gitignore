@@ -1,0 +1,15 @@
+.DS_Store
+*.o
+*.obj
+*.exe
+out
+build/
+sr512_test
+*.vcd
+*.log
+xsim.dir/
+xvlog.pb
+xelab.pb
+*.swp
+*~
+.vscode/
