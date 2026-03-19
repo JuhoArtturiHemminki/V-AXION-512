@@ -1,4 +1,4 @@
-TECHNICAL WHITE PAPER: V-AXION-512 (v. 1.0.0)
+TECHNICAL WHITE PAPER: V-AXION-512 STATE RECOVERY (v. 1.0.0)
 Universal Single-Cycle Deterministic Protocol for Next-Generation Interconnects
 Author: Juho Artturi Hemminki
 Year: 2026
